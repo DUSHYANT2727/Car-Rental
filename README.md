@@ -1,5 +1,9 @@
 RentWheel - Car Rental Frontend Website
+
 RentWheel is a React.js-based frontend website designed to facilitate car rentals for users. Whether you're planning a road trip or need a temporary vehicle, RentWheel offers a seamless platform to browse, select, and rent cars of your choice.
+
+Demo
+Check out the live demo of RentWheel here : https://rentwheel.netlify.app/
 
 Installation
 To run RentWheel locally on your machine, follow these steps:
@@ -29,3 +33,4 @@ Submit a pull request.
 
 Acknowledgements
 Special thanks to the developers of the libraries and frameworks used in this project, as well as the open-source community for their contributions.
+
